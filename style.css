@@ -1,0 +1,44 @@
+*{
+    background-color: black;
+    color: white;
+  
+}
+
+
+.a{
+    color: rgb(255, 0, 0); 
+}
+
+
+ul li a h4 {
+    color: rgb(240, 240, 240);
+    
+}
+ :hover h4{
+    color: rgb(255, 0, 0);
+}
+.overlay{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    
+}
+h2{
+    color: rgb(255, 0, 0);
+    padding-top: 50px;
+    text-decoration: underline;
+}
+#video{
+
+    height: 100%;
+    width: 100%px;
+}
+#i{
+    color: red;
+}
+.c{
+    color: red;
+}
+.p{
+  padding-left: 50px;
+}
